@@ -1,3 +1,4 @@
+import 'whatwg-fetch';
 
 export const getGifs = async(category) =>{
 
